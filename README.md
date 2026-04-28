@@ -94,11 +94,11 @@ Do not use against targets without proper authorization.
 
 ## 📚 Future Improvements
 
-* Add threading (faster scanning)
-* Filter results by status code
-* Export results to file
-* Add CLI arguments (e.g. `--target`)
-* Improve error handling
+- Add multithreading support (faster scanning)
+- Improve filtering by HTTP status codes (e.g., show only 200, 403)
+- Add CLI arguments support (e.g., --target, --wordlist)
+- Improve error handling and messages
+- Allow exporting results in different formats (e.g., JSON, CSV)
 
 ---
 
@@ -209,11 +209,11 @@ Não utilize contra sistemas sem autorização.
 
 ## 📚 Melhorias Futuras
 
-* Adicionar threads (scan mais rápido)
-* Filtrar resultados por código de status
-* Exportar resultados para arquivo
-* Adicionar argumentos CLI (ex: `--target`)
-* Melhorar tratamento de erros
+- Adicionar suporte a multithreading (scan mais rápido)
+- Melhorar filtragem por código de status (ex: mostrar apenas 200, 403)
+- Adicionar suporte a argumentos via CLI (ex: --target, --wordlist)
+- Melhorar tratamento de erros e mensagens
+- Permitir exportar resultados em diferentes formatos (ex: JSON, CSV)
 
 ---
 
