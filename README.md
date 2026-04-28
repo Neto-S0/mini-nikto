@@ -219,5 +219,7 @@ Não utilize contra sistemas sem autorização.
 
 ## 👨‍💻 Autor
 
-* https://github.com/Neto-S0
+* Neto
+* GitHub: https://github.com/Neto-S0
+
 
