@@ -1,5 +1,5 @@
-from utils import load_wordlist
-from scanner import scan_url
+from core.utils import load_wordlist
+from core.scanner import scan_url
 
 target = input("Alvo (ex: http://127.0.0.1): ")
 
