@@ -107,6 +107,8 @@ Do not use against targets without proper authorization.
 * Neto
 * GitHub: https://github.com/Neto-S0
 
+---
+
 
 
 ## 🇧🇷 Versão em Português
